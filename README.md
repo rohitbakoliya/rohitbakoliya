@@ -2,7 +2,7 @@
 
 ![Typing](assets/typing.svg)
 
-#### ✨ More About me
+#### 🚀 More About me
 
 - 🎓 I’m currently pursuing bachelors degree in computer engineering from NIT Surat
 - 🔭 Area of Interest includes Design Patterns, React.js, API Design, Microservices, AWS, SQL and NoSQL Databases
