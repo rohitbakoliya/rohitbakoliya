@@ -8,7 +8,7 @@
 - 🔭 Area of Interest includes Design Patterns, React.js, API Design, Microservices, AWS, SQL and NoSQL Databases
 - 💙 Typescript
 - 💻 All of my projects are available [here](https://rohitbakoliya.github.io/#projects)
-
+<br>
 
 #### 📫 Connect with me
 
@@ -23,12 +23,10 @@
 </p>
 <br>
 
-
 #### ⚡ GitHub Profile Stats
 
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitbakoliya&count_private=true&show_icons=true&hide_border=true&title_color=fb8c00&icon_color=fb8c00&line_height=24)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbakoliya&layout=compact&langs_count=8&hide_border=true&title_color=fb8c00)
-
 <br>
 
 #### 📈 Github Activity
