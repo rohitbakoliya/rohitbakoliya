@@ -29,12 +29,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbakoliya&layout=compact&langs_count=8&hide_border=true&title_color=fb8c00)
 <br>
 
-#### 📈 Github Activity
-
-<p align="center">
-    <img title="GitHub Streak" alt="Rohit's Streak" src="http://github-readme-streak-stats.herokuapp.com?user=rohitbakoliya&hide_border=true&stroke=FEE7CB"/>
-</p>
-
-<p align="center">
-    <img title="Github activity graph" alt="Rohit's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=rohitbakoliya&hide_border=true&bg_color=fff&color=24292e&line=fb8c00&area=false"/>
-</p>
+<details>
+    <summary>
+        📈 Github Activity
+    </summary>
+    <p>
+        <p align="center">
+            <img title="GitHub Streak" alt="Rohit's Streak" src="http://github-readme-streak-stats.herokuapp.com?user=rohitbakoliya&hide_border=true&stroke=FEE7CB"/>
+        </p>
+        <p align="center">
+            <img title="Github activity graph" alt="Rohit's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=rohitbakoliya&hide_border=true&bg_color=fff&color=24292e&line=fb8c00&area=false"/>
+        </p>
+    </p>
+</details>
