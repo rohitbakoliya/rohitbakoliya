@@ -18,7 +18,7 @@
 <a href="https://instagram.com/rohitbakoliya7" target="blank"><img align="center" src="assets/icons/social/instagram.svg" title="instagram" alt="rohitbakoliya7" height="30" width="40" /></a>
 <a href="https://twitter.com/rohit_bakoliya" target="blank"><img align="center" src="assets/icons/social/twitter.svg" title="twitter" alt="rohit_bakoliya" height="30" width="40" /></a>
 <a href="mailto:bakoliyarohit00@gmail.com" target="blank"><img align="center" src="assets/icons/social/gmail.svg" title="gmail" alt="email" height="30" width="40" /></a>
-<a href="https://drive.google.com/file/d/1qjn6cO_IOY5J3y8vsu5JJJylikyaVZTk/view?usp=sharing" target="blank"><img align="center" src="assets/icons/social/resume.svg" title="resume" alt="resume" height="30" width="40" /></a>
+<a href="https://drive.google.com/file/d/1oYsnIREbqBdCRcTkh5Uq3g_jouDqJ7sS/view" target="blank"><img align="center" src="assets/icons/social/resume.svg" title="resume" alt="resume" height="30" width="40" /></a>
 <a href="https://rohitbakoliya.github.io/" target="blank"><img align="center" src="assets/icons/social/portfolio.svg" title="portfolio" alt="portfolio" height="30" width="40" /></a>
 </p>
 <br>
