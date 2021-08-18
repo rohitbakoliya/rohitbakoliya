@@ -1,4 +1,4 @@
-<img src="assets/giphy.webp" alt="hi" height="150" align="left"/>
+<img src="assets/giphy_wave.webp" alt="hi" height="150" align="left"/>
 
 ![Typing](assets/typing.svg)
 
