@@ -4,7 +4,7 @@
 
 #### 🚀 More About me
 
-- 🎓 I’m currently pursuing bachelors degree in computer engineering from NIT Surat
+- 🎓 I’m a final year student at NIT Surat majoring in Computer Engineering
 - 🔭 Area of Interest includes Design Patterns, React.js, API Design, Microservices, AWS, SQL and NoSQL Databases
 - 💙 Typescript
 - 💻 All of my projects are available [here](https://rohitbakoliya.github.io/#projects)
@@ -25,9 +25,8 @@
 
 #### ⚡ GitHub Profile Stats
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitbakoliya&count_private=true&show_icons=true&hide_border=true&title_color=fb8c00&icon_color=fb8c00&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbakoliya&layout=compact&langs_count=8&hide_border=true&title_color=fb8c00)
-<br>
+<span><img alt="Rohit's GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=rohitbakoliya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></span>
+<img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbakoliya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 <details>
     <summary>
@@ -35,10 +34,10 @@
     </summary>
     <p>
         <p align="center">
-            <img title="GitHub Streak" alt="Rohit's Streak" src="http://github-readme-streak-stats.herokuapp.com?user=rohitbakoliya&hide_border=true&stroke=FEE7CB"/>
+            <img title="GitHub Streak" alt="Rohit's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbakoliya&theme=monokai-metallian&hide_border=true"/>
         </p>
         <p align="center">
-            <img title="Github activity graph" alt="Rohit's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=rohitbakoliya&hide_border=true&bg_color=fff&color=24292e&line=fb8c00&area=false"/>
+            <img title="Github activity graph" alt="Rohit's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=rohitbakoliya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
         </p>
     </p>
 </details>
